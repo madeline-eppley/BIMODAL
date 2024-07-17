@@ -30,10 +30,10 @@ The workshop is open to undergraduates, graduate students, and postdocs at North
 ### Context for the Workshop
 This workshop was started at Northeastern University with an Equity Action Grant from the College of Science.
 
-**Barriers to Retention in STEM**
+#### Barriers to Retention in STEM
 Underrepresented students in STEM face tremendous barriers to their retention in the field. Upon the completion of concrete opportunities such as internships, peer mentoring programs, or co-ops, underrepresented students may struggle with developing a larger professional network where they can identify their next position, opportunity, or mentor. By harnessing professional development opportunities online such as creating a free website, curating professional networks through social media (twitter, LinkedIn), and sharing products of their work such as photos of them completing research or writing blogs, underrepresented students create a multitude of opportunities to connect and develop their career pathway online. When provided with this crucial connection between positions (which often do not overlap in early-career researchers), diverse students are more likely to be retained in the field.  
 
-** Furthering DEIJB Best Practices**
+#### Furthering DEIJB Best Practices
 The missing context in DEI programming is justice and belonging. To promote retention in STEM fields, diverse students must not only be included, but must genuinely feel as if they belong and have barriers to access removed. DEI has a responsibility to not just fund the education of people with non-marginalized identities, but also to allocate funding towards initiatives that will increase a sense of belonging in students with marginalized identities. Best practices in DEI call for further funding opportunities for marginalized students in the field, as well as increased structured professional development workshops and mentoring programs to demystify many of the opaque processes of academia and promote their success. 
 
 
