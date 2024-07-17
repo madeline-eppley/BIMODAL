@@ -3,7 +3,7 @@
 
 <img width="618" alt="BIMODAL_24_logo" src="https://github.com/user-attachments/assets/a6147ca1-c1d3-4532-88f7-59ab9f558ecc">
 
-*This workshop will provide opportunities for marginalized groups to advance their belonging in STEM by developing their online professional network.*
+*This workshop will provide opportunities for marginalized groups to advance their belonging in STEM by developing their online network.*
 
 **Lecture Curriculum:** 
 - Designing a Robust Personal Website to Enhance Academic Career Prospects
