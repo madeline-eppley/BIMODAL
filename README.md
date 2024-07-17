@@ -1,6 +1,6 @@
 # BIMODAL Workshop 2024
 ## Belonging in Media: Opportunities in Online Academic Landscapes
-*This workshop will provide opportunities for marginalized groups to advance their belonging in STEM by developing their online network.*
+*This workshop will provide opportunities for marginalized groups to advance their belonging in STEM by developing their online network. Designed and led by Northeastern College of Science graduate students.*
 
 
 <img width="618" alt="BIMODAL_24_logo" src="https://github.com/user-attachments/assets/a6147ca1-c1d3-4532-88f7-59ab9f558ecc">
@@ -28,7 +28,7 @@
 The workshop is open to undergraduates, graduate students, and postdocs at Northeastern University who are currently enrolled in the College of Science. *The application form will be open until August 10th, 2024*, and accepted applicants will be notified shortly after. [Link to BIMODAL application form](https://forms.gle/CRVkW4ucTyPVeRmCA). 
 
 ### Context for the Workshop
-This workshop was started at Northeastern University with an Equity Action Grant from the College of Science.
+This workshop was started at Northeastern University with an Equity Action Grant from the College of Science. The workshop is designed and led by COS graduate students [Madeline Eppley](https://www.madeline-eppley.com/), [Angela Jones](https://www.angelajjones.com/), and Lindsey Forg. 
 
 #### Barriers to Retention in STEM
 Underrepresented students in STEM face tremendous barriers to their retention in the field. Upon the completion of concrete opportunities such as internships, peer mentoring programs, or co-ops, underrepresented students may struggle with developing a larger professional network where they can identify their next position, opportunity, or mentor. By harnessing professional development opportunities online such as creating a free website, curating professional networks through social media (twitter, LinkedIn), and sharing products of their work such as photos of them completing research or writing blogs, underrepresented students create a multitude of opportunities to connect and develop their career pathway online. When provided with this crucial connection between positions (which often do not overlap in early-career researchers), diverse students are more likely to be retained in the field.  
