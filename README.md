@@ -24,8 +24,8 @@
 - Casual networking over provided lunch with peer participants
 - Slack channel for workshop participants to build community
 
-### Application Form
-The workshop is open to undergraduates, graduate students, and postdocs at Northeastern University who are currently enrolled in the College of Science. *The application form will be open until August 10th, 2024*, and accepted applicants will be notified shortly after. [Link to application form](https://forms.gle/CRVkW4ucTyPVeRmCA). 
+### [Application Form](https://forms.gle/CRVkW4ucTyPVeRmCA)
+The workshop is open to undergraduates, graduate students, and postdocs at Northeastern University who are currently enrolled in the College of Science. *The application form will be open until August 10th, 2024*, and accepted applicants will be notified shortly after. [Link to BIMODAL application form](https://forms.gle/CRVkW4ucTyPVeRmCA). 
 
 ### Context for the Workshop
 This workshop was started at Northeastern University with an Equity Action Grant from the College of Science.
