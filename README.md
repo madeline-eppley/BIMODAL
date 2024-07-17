@@ -3,7 +3,7 @@
 
 <img width="618" alt="BIMODAL_24_logo" src="https://github.com/user-attachments/assets/a6147ca1-c1d3-4532-88f7-59ab9f558ecc">
 
-*This 3-day workshop will provide pathways for underrepresented groups to advance their belonging in STEM by developing their online professional presence.*
+*This workshop will provide pathways for underrepresented groups to advance their belonging in STEM by developing their online professional presence.*
 
 **Lecture Curriculum:** 
 - Designing a Robust Personal Website to Enhance Academic Career Prospects
@@ -22,11 +22,13 @@
 - Slack channel for workshop participants to build community
 - Professional headshot and action photos in the lab or outside!
 
+### Application Form
+The workshop is open to undergraduates, graduate students, and postdocs at Northeastern University who are currently enrolled in the College of Science. *The application form will be open until August 10th, 2024*, and accepted applicants will be notified shortly after. [Link to application form](https://forms.gle/CRVkW4ucTyPVeRmCA). 
 
 ### Context for the Workshop
 This workshop was started at Northeastern University with an Equity Action Grant from the College of Science.
 
-### Application Form + FAQ
-The workshop is open to late-stage undergraduates and early-stage graduate students at Northeastern University who are currently enrolled in the College of Science. The application form will be open until August 10th, 2024, and accepted applicants will be notified shortly after.
+
+
 
 
